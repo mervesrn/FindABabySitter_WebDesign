@@ -1,4 +1,5 @@
-# FindABabySitter_WebDesign
+# FindABabySitter_WebDesign<br>
+![alt text](https://github.com/mervesrn/FindABabySitter_WebDesign/blob/main/web_homepage.PNG)<br>
 ## 1.	Project Information and Objectives<br>
 ## a.	Project Scope: <br>
 The scope of this project is a web-based system that supports the matchmaking of babysitters in city which you search.<br>
@@ -7,7 +8,7 @@ The scope of this project is a web-based system that supports the matchmaking of
 Those who will primarily benefit from the new system and those who will be affected by the new system include:<br>
 <br>
 ## c.	Objectives:<br>
-e.g.<br>
+e.g.<br>br>
 •	The system shall allow for babysitter matchmaking by either advertisement from the babysitter or request from the parents.<br>
 •	The system shall provide password protected access to web pages that are to be viewed only by registered users.<br>
 •	Transaction data must be transmitted in encrypted form.<br>
@@ -64,4 +65,4 @@ This can include the actor’s age, address, and experience about babysitter pos
 field is also a place where the actor can state what he or she is looking for in the opposite status, and what he or she is willing to offer.<br>
 # 2.2 System Requirements<br>
 The system shall be able to store the actor’s description into the database as a task.<br>
-![alt text](https://github.com/mervesrn/FindABabySitter_WebDesign/blob/main/web_homepage.PNG)
+
