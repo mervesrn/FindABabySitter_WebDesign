@@ -1,12 +1,12 @@
 # FindABabySitter_WebDesign
-1.	Project Information and Objectives<br>
-a.	Project Scope: <br>
+## 1.	Project Information and Objectives<br>
+## a.	Project Scope: <br>
 The scope of this project is a web-based system that supports the matchmaking of babysitters in city which you search.<br>
 <br>
-b.	Users:  <br>
+## b.	Users:  <br>
 Those who will primarily benefit from the new system and those who will be affected by the new system include:<br>
 <br>
-c.	Objectives:<br>
+## c.	Objectives:<br>
 e.g.<br>
 •	The system shall allow for babysitter matchmaking by either advertisement from the babysitter or request from the parents.<br>
 •	The system shall provide password protected access to web pages that are to be viewed only by registered users.<br>
@@ -15,20 +15,20 @@ e.g.<br>
 •	Admin can approve the tasks<br>
 •	Users give rating all babysitters without theirself.It gives feedback for other parents.<br>
 
-2.Project Implementation (How your system works?)<br>
+## 2.Project Implementation (How your system works?)<br>
 
 <br>
-Registration<br>
-1. User Requirements<br>
+## Registration<br>
+## 1. User Requirements<br>
 The actor(User) shall be able to make an account using their personal information.<br>
-.2. System Requirements<br>
+## 2. System Requirements<br>
 The actor shall be able to register to the system by providing the required<br>
 information. This includes the actor’s name, 
 , email, and password, birth date,  gender, city, picture. Once the required information is
 submitted, the server will check if the input is valid. If an error is present, the
 actor will be notified so that he or she can correct it.<br>
 <br>
-Login<br>
+## Login<br>
 1. User Requirements<br>
 The actor shall be able to log into the system using their registered email and
 password.<br>
