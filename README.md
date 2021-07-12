@@ -39,28 +39,28 @@ one used when the actor first registered.<br>
 <br>
 Update Profile(Cards)<br>
 <br>
-## 1. User Requirements<br>
+# 1. User Requirements<br>
 The actor shall be able to swipe cards (profiles) of other actors with opposite
 statuses. To show interest in a card, the actor should swipe right. To show
 disinterest in a card, the actor should swipe left.<br>
-## 2. System Requirements<br>
+# 2. System Requirements<br>
 The system shall be able to store which of the cards/profiles the actor swiped
 right or swiped left to into the database.<br>
-## 1.	Upload Picture<br>
-## 1.1User Requirements<br>
+# 1.	Upload Picture<br>
+# 1.1User Requirements<br>
 The actor shall be able to upload a picture of his or her choice in settings. It
 can be changed anytime.<br>
 <br>
-## 1.2 System Requirements<br>
+# 1.2 System Requirements<br>
 The system shall be able to store the picture the actor uploads on his or her
 card, into the database.<br>
 
 <br>
 <br>
-## 2. Add Description<br>
-## 2.1. User Requirements<br>
+# 2. Add Description<br>
+# 2.1. User Requirements<br>
 The actor shall be able to write a description about him or herself in settings.
 This can include the actor’s age, address, and experience about babysitter position. The description
 field is also a place where the actor can state what he or she is looking for in the opposite status, and what he or she is willing to offer.<br>
-## 2.2 System Requirements<br>
+# 2.2 System Requirements<br>
 The system shall be able to store the actor’s description into the database as a task.<br>
